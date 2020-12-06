@@ -1,0 +1,90 @@
+body {
+  max-width: 767px;
+  width: 480px;
+  min-width: 480px;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+  color: rgba(28, 28, 28, 0.793);
+}
+
+#a {
+  background-color:#FEF2F2;
+}
+
+#b {
+  background-color: #FEE2E2;
+}
+
+#c {
+  background-color: #FECACA;
+}
+
+#d {
+  background-color: #FCA5A5;
+}
+
+#e {
+  background-color: #F87171;
+}
+
+#f {
+  background-color: #EF4444 ;
+}
+
+#g {
+  background-color: #DC2626;
+}
+
+#h {
+  background-color: #B91C1C;
+}
+
+#i {
+  background-color: #991B1B;
+}
+
+@media (min-width: 767px){
+  
+  body {
+    min-width: 960px;
+    margin: auto;
+  }
+
+
+  #a {
+    background-color: #EFF6FF;
+  }
+  
+  
+  #b {
+    background-color: #DBEAFE;
+  }
+  
+  #c {
+    background-color: #BFDBFE;
+  }
+  
+  #d {
+    background-color: #93C5FD;
+  }
+  
+  #e {
+    background-color: #60A5FA;
+  }
+  
+  #f {
+    background-color: #3B82F6 ;
+  }
+  
+  #g {
+    background-color: #2563EB;
+  }
+  
+  #h {
+    background-color: #1D4ED8;
+  }
+  
+  #i {
+    background-color: #1E40AF;
+  }
+}
