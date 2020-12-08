@@ -7,6 +7,14 @@ body {
   color: rgba(28, 28, 28, 0.793);
 }
 
+* {
+  box-sizing: border-box;
+}
+
+div, aside {
+  border: 2px solid black;
+}
+
 #a {
   background-color:#FEF2F2;
 }
