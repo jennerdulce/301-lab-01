@@ -3,6 +3,7 @@ main {
   display: grid;
   grid-template-columns: repeat(2, 240px);
   grid-template-rows: 75px 150px 125px 125px 250px 250px 80px;
+  grid-gap: 1em;
   grid-template-areas: 
     "header header"
     "sidebar sidebar"
